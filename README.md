@@ -28,7 +28,7 @@ I'm diving into the realm of databases, aiming to deepen my understanding and co
   - Expected Graduation: August 2026
 
 ## 📫 Let's Connect!
-- LinkedIn: [Neha-Lenin] (https://www.linkedin.com/in/neha-lenin-958873231/)
+- LinkedIn: Neha-Lenin (https://www.linkedin.com/in/neha-lenin-958873231/)
 - Email: leninnr@mail.uc.edu
 
 ## 😄 Pronouns
