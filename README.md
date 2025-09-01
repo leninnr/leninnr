@@ -35,4 +35,4 @@ I'm diving into the realm of databases, aiming to deepen my understanding and co
 - she/her
 
 ## ⚡ Fun fact!
-When I step away from coding, you'll likely find me immersed in crafting something creative. I have a deep passion for unleashing my creativity, and my goal is to infuse that creative spirit into the realm of computers.
+When I step away from coding, you'll likely find me immersed in crafting something creative. I have a deep passion for unleashing my creativity, and my goal is to infuse that creative spirit into the realm of computers. 
